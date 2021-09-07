@@ -30,5 +30,3 @@ allNames.forEach(
         console.log(el.name);
     }
 )
-
-console.log(allNames);
